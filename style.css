@@ -277,4 +277,12 @@ footer .line2 a:hover {
     .checkBoxItens label {
         font-size: 17px;
     }
+
+    footer .line1 {
+        flex-direction: column;
+    }
+
+    footer .adress {
+        width: 95%;
+    }
 }
